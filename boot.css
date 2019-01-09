@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+.navbar {
+    background-color:black;
+    font-family: "Roboto";
+}
+
+.jumbotron {
+    background-image: url("images/coverpage.jpg");
+}
+
+.form-group {
+    background-color:	#A9A9A9;
+    text-align: center;
+}
+
+.display-4 .display-5 .display-6 {
+    font-family: "italic";
+}
